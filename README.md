@@ -9,3 +9,17 @@ added 3rdl line on May 24th TU class
 
 
 4th line
+
+# Header
+
+## Header
+
+### Header
+
+**Word**
+
+*Word* 
+
+[link linkedin page](https://linkedin.com/)
+
+![dummy image](markdown-image.png)
